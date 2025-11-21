@@ -1,5 +1,8 @@
-## Hi there 👋
+# SassyBuns
 
+I am an electronics systems engineer studying at NTNU in Trondheim. 
+My interests are both in software, hardware, FPGA and development but
+also art, sewing and painting. I like to be creative in the ways I work.
 <!--
 **sassybunsthebun/sassybunsthebun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
